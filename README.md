@@ -11,4 +11,4 @@
 <div>
 
 ![snake gif]
-  (https://github.com/YOUR_USERNAME/CleytonGravito/blob/output/github-contribution-grid-snake.gif)
+(https://github.com/YOUR_USERNAME/CleytonGravito/CleytonGravito/blob/output/github-contribution-grid-snake.gif)
