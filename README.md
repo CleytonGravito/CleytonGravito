@@ -1,6 +1,6 @@
 ### Olá! Me chamo Cleyton Gravito 
 
-- 🔭 Trabalho: Estágio no setor Tributário
+- 🔭 Trabalho: Estágio no setor de TI
 - 🌱 Estudando: HTML, CSS3, PYTHON, JAVASCRIPT, REACTJS e JAVA
 - 😄 Pronomes: He | Him
 - ⚡️Curiosidade: Estudando para ser um Desenvolvedor Full Stack
