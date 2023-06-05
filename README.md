@@ -1,9 +1,9 @@
 ### Olá! Me chamo Cleyton Gravito 
 
 - 🔭 Trabalho: Estágio no setor de TI
-- 🌱 Estudando: HTML, CSS3, PYTHON, JAVASCRIPT, REACTJS e JAVA
+- 🌱 Estudando: JAVA, SPRING BOOT, POSTMAN, SQL, MYSQL, MONGODB, DOCKER, API REST
 - 😄 Pronomes: He | Him
-- ⚡️Curiosidade: Estudando para ser um Desenvolvedor Full Stack
+- ⚡️Curiosidade: Estudando para ser um Software Engineer
 
 <div>
   <a href="https://www.linkedin.com/in/cleyton-gravito-4b1423219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
