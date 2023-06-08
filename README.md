@@ -22,7 +22,7 @@
   <img align="center" alt="Cleyton-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Cleyton-MongoDB" height="30" width="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Cleyton-GIT" height="30" width="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Cleyton-MongoDB" height="30" width="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="Cleyton-MongoDB" height="30" width="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg">
  <img align="center" alt="Cleyton-MongoDB" height="30" width="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
   
