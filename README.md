@@ -18,12 +18,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Cleyton-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Cleyton-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Cleyton-Js" height="30" width="40" src="">
-  <img align="center" alt="Cleyton-MySQL" height="30" width="40" src="">
-  <img align="center" alt="Cleyton-MongoDB" height="30" width="40" src="">
-  <img align="center" alt="Cleyton-GIT" height="30" width="40" src="">
-  <img align="center" alt="Cleyton-MongoDB" height="30" width="40" src="">
- <img align="center" alt="Cleyton-MongoDB" height="30" width="40" src="">
 </div>
   
 ![snake gif](https://raw.github.com/CleytonGravito/CleytonGravito/output/github-contribution-grid-snake.gif)
