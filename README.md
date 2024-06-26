@@ -1,7 +1,7 @@
 ### Olá! Me chamo Cleyton Gravito!!
 
 - 🔭 Trabalho: Estagiário como Auxiliar de TI
-- 🌱 Habilidades: Java, Spring Boot, Postman, JavaScript, SQL, MYSQL, MongoDB, Docker, API Rest
+- 🌱 Habilidades: C#, .NET, JavaScript, Spring Boot, SQL, MYSQL, MongoDB, Docker, API Rest
 - ⚡️Objetivo: Estudando para ser um Software Engineer
 
 <div>
