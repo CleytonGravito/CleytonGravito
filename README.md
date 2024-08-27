@@ -1,8 +1,8 @@
 ### Olá! Me chamo Cleyton Gravito!!
 
-- 🔭 Trabalho: Estagiário como Auxiliar de TI
-- 🌱 Habilidades: C#, .NET, JavaScript, Spring Boot, SQL, MYSQL, MongoDB, Docker, API Rest
-- ⚡️Objetivo: Estudando para ser um Software Engineer
+- 🔭 Trabalho: Auxiliar de TI
+- 🌱 Habilidades: C#, .NET, JavaScript, Spring Boot, SQL Server, MYSQL, MongoDB, Docker, API Rest
+- ⚡️Objetivo: Primeira Oportunidade como Software Engineer
 
 <div>
   <a href="https://www.linkedin.com/in/cleyton-gravito-4b1423219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
