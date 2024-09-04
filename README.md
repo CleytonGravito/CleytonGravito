@@ -24,6 +24,5 @@
   <img align="center" alt="Cleyton-JS" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Cleyton-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
-  
-![snake gif](https://github.com/CleytonGravito/CleytonGravito/blob/output/github-contribution-grid-snake.gif)
+
 
