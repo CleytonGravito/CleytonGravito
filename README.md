@@ -1,6 +1,6 @@
 ### Olá! Me chamo Cleyton Gravito!!
 
-- 🔭 Trabalho: Auxiliar de TI
+- 🔭 Trabalho: Coordenador Técnico
 - 🌱 Habilidades: C#, .NET, JavaScript, Spring Boot, SQL Server, MYSQL, MongoDB, Docker, Postman, API Rest
 - ⚡️Objetivo: Primeira Oportunidade como Software Engineer
 
